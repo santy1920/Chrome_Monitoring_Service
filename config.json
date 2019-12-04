@@ -1,0 +1,14 @@
+{
+    "db": {
+        "database": "",
+        "server": "localhost",
+        "port": "",
+        "user": "",
+        "password": "",
+        "requestTimeout": 0,
+        "pool": {
+            "max": 100,
+            "min": 10
+        }
+    }
+}
